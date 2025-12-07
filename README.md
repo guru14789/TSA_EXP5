@@ -14,10 +14,8 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 5. Display the overall results.
 
 ### PROGRAM:
-```
-Developed By: YUVARAJ JOSHITHA
-Reg. No: 212223240189
-```
+
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
